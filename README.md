@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .INFO one-word domains still available to buy.
 
-This dataset contains 3,049 .INFO one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,213 .INFO one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.INFO one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=info-oneword-domains&utm_content=description.top) (3,046) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,14 +13,15 @@ If you want to search & filters the complete database of [.INFO one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/info-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/info-oneword-domains/blob/main/info.csv"><b>⬇️ CSV (3.05K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/info-oneword-domains/blob/main/info.json"><b>⬇️ JSON (3.05K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/info-oneword-domains/blob/main/info.csv"><b>⬇️ CSV (3.21K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/info-oneword-domains/blob/main/info.json"><b>⬇️ JSON (3.21K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=info-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.05K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain          | Status    | Attract. | Demand | Length | Registrar         | Created          | Expires          |
 | --------------- | --------- | -------- | ------ | ------ | ----------------- | ---------------- | ---------------- |
+| aaa.info        | resell    | 70       | 35%    | 3      | GoDaddy.com, LLC  | 16/08/2001 12:21 | 16/08/2026 12:21 |
 | abactinal.info  | available | 50       | 1%     | 9      |                   |                  |                  |
 | abaft.info      | available | 43       | 2%     | 5      |                   |                  |                  |
 | abashed.info    | available | 60       | 2%     | 7      |                   |                  |                  |
@@ -40,7 +41,7 @@ If you want to search & filters the complete database of [.INFO one word domains
 | abeyant.info    | available | 56       | 2%     | 7      |                   |                  |                  |
 | abhorrent.info  | available | 54       | 3%     | 9      |                   |                  |                  |
 | abient.info     | available | 54       | 1%     | 6      |                   |                  |                  |
-| ability.info    | resell    | 92       | 18%    | 7      | Sav.com, LLC - 13 | 22/07/2025 15:16 | 22/07/2026 15:16 |
+| ability.info    | resell    | 92       | 16%    | 7      | Sav.com, LLC - 13 | 22/07/2025 15:16 | 22/07/2026 15:16 |
 | abject.info     | available | 94       | 8%     | 6      |                   |                  |                  |
 | abkhas.info     | available | 68       | 1%     | 6      |                   |                  |                  |
 | abkhasian.info  | available | 78       | 1%     | 9      |                   |                  |                  |
@@ -50,12 +51,11 @@ If you want to search & filters the complete database of [.INFO one word domains
 | ablative.info   | available | 68       | 3%     | 8      |                   |                  |                  |
 | ablaze.info     | available | 72       | 6%     | 6      |                   |                  |                  |
 | able.info       | premium   | 80       | 26%    | 4      |                   |                  |                  |
-| abnaki.info     | available | 68       | 2%     | 6      |                   |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/info-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/info-oneword-domains/blob/main/info.csv"><b>⬇️ CSV (3.05K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/info-oneword-domains/blob/main/info.json"><b>⬇️ JSON (3.05K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/info-oneword-domains/blob/main/info.csv"><b>⬇️ CSV (3.21K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/info-oneword-domains/blob/main/info.json"><b>⬇️ JSON (3.21K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=info-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.05K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.INFO one word domains
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
