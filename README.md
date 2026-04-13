@@ -81,7 +81,7 @@ print(df.head())
 | law.info        | premium   | $344,998.85 | $35.99        | 82             | 46     | 3      | GoDaddy.com, LLC                            |
 | planned.info    | available | $4.99       | $35.99        | 74             | 10     | 7      | name.com                                    |
 | water.info      | resell    | $5,750      | $35.99        | 108            | 42     | 5      | GoDaddy.com, LLC                            |
-| green.info      | premium   | $3,125      | $3,125        | 108            | 45     | 5      | name.com                                    |
+| green.info      | premium   | $3,125      | $3,125        | 108            | 44     | 5      | name.com                                    |
 | considered.info | available | $4.99       | $35.99        | 71             | 10     | 10     | name.com                                    |
 | aaa.info        | resell    | $23,000     | $35.99        | 70             | 42     | 3      | GoDaddy.com, LLC                            |
 
