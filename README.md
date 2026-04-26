@@ -1,22 +1,22 @@
-# Available .INFO One-Word Domains (6,143)
+# Available .INFO One-Word Domains (7,877)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-6%2C140%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C143%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C877%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .info one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 6,140-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **6,143 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **7,877 domains** on the canonical page below.
 
-**Public extract:** 6,140 rows · **Live catalog:** 6,143 domains
+**Public extract:** 1,000 rows · **Live catalog:** 7,877 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/info`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .INFO one-word domain 
 
 ### Files
 
-- `info.csv` — public CSV extract (6,140 rows)
-- `info.json` — public JSON extract (6,140 rows)
+- `info.csv` — public CSV extract (1,000 rows)
+- `info.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                   |
-| --------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| decay.info      | available | $4.99       | —             | 62             | 13     | 5      | name.com                                    |
-| balanced.info   | resell    | $3,967.50   | $35.99        | 74             | 97     | 8      | Dynadot Inc                                 |
-| box.info        | premium   | $2,875      | $35.99        | 68             | 78     | 3      | Alibaba Cloud Computing (Beijing) Co., Ltd. |
-| cleared.info    | available | $4.99       | $35.99        | 74             | 12     | 7      | name.com                                    |
-| woo.info        | resell    | $12,950.15  | $35.99        | 67             | 82     | 3      | Key-Systems GmbH                            |
-| live.info       | premium   | $5,921.32   | —             | 86             | 56     | 4      | Dynadot Inc                                 |
-| desired.info    | available | $4.99       | $35.99        | 78             | 11     | 7      | name.com                                    |
-| cloud.info      | resell    | $632,500    | $35.99        | 70             | 59     | 5      | Dynadot Inc                                 |
-| root.info       | premium   | $5,685.60   | $5,685.60     | 64             | 49     | 4      | Internet Domain Service BS Corp             |
-| directed.info   | available | $4.99       | $35.99        | 70             | 11     | 8      | name.com                                    |
-| ada.info        | resell    | $2,873.85   | $2,873.85     | 62             | 53     | 3      | Dynadot Inc                                 |
-| play.info       | premium   | $18,271.20  | $35.99        | 104            | 47     | 4      | GoDaddy.com, LLC                            |
-| alkaline.info   | available | $4.99       | $35.99        | 88             | 10     | 8      | name.com                                    |
-| work.info       | resell    | $55,200     | $35.99        | 72             | 45     | 4      | Unstoppable Domains Inc                     |
-| law.info        | premium   | $344,998.85 | $35.99        | 82             | 46     | 3      | GoDaddy.com, LLC                            |
-| planned.info    | available | $4.99       | $35.99        | 74             | 10     | 7      | name.com                                    |
-| water.info      | resell    | $5,750      | $35.99        | 108            | 42     | 5      | GoDaddy.com, LLC                            |
-| green.info      | premium   | $3,125      | $3,125        | 108            | 44     | 5      | name.com                                    |
-| considered.info | available | $4.99       | $35.99        | 71             | 10     | 10     | name.com                                    |
-| aaa.info        | resell    | $23,000     | $35.99        | 70             | 42     | 3      | GoDaddy.com, LLC                            |
+| domain          | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| holes.info      | available | $4.99      | —             | 66             | 17     | 5      | name.com                                                  |
+| IsleofMan.info  | resell    | —          | —             | 62             | 91     | 11     | GoDaddy.com, LLC                                          |
+| winners.info    | premium   | $2,932.82  | —             | 60             | 81     | 7      | GoDaddy.com, LLC                                          |
+| banked.info     | available | $4.99      | —             | 50             | 13     | 6      | name.com                                                  |
+| makers.info     | resell    | —          | —             | 62             | 67     | 6      | Dynadot Inc                                               |
+| superhero.info  | premium   | $11,700.49 | —             | 84             | 23     | 9      | Epik LLC                                                  |
+| nights.info     | available | $4.99      | —             | 74             | 12     | 6      | name.com                                                  |
+| skills.info     | resell    | —          | —             | 58             | 47     | 6      | GoDaddy.com, LLC                                          |
+| videogames.info | premium   | $10,527.84 | —             | 66             | 18     | 11     | Name.com, Inc.                                            |
+| Rounds.info     | available | $35.98     | —             | 72             | 12     | 6      | namecheap                                                 |
+| Ryan.info       | resell    | —          | —             | 60             | 44     | 4      | GoDaddy.com, LLC                                          |
+| then.info       | premium   | $645.55    | —             | 68             | 17     | 4      | Sav.com, LLC - 21                                         |
+| flipped.info    | available | $4.99      | —             | 52             | 12     | 7      | name.com                                                  |
+| homes.info      | resell    | —          | —             | 86             | 34     | 5      | NameCheap, Inc.                                           |
+| hookup.info     | premium   | $1,184.50  | —             | 76             | 16     | 7      | GoDaddy.com, LLC                                          |
+| stackup.info    | available | $4.99      | —             | 64             | 11     | 8      | name.com                                                  |
+| roots.info      | resell    | —          | —             | 74             | 34     | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
+| depression.info | premium   | $1,436.80  | —             | 52             | 16     | 10     | Vautron Rechenzentrum AG                                  |
+| playin.info     | available | $4.99      | —             | 80             | 10     | 7      | name.com                                                  |
+| partners.info   | resell    | —          | —             | 61             | 32     | 8      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 6,140-row public sample | 6,143 live domains                               |
+| 1,000-row public sample | 7,877 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INFO One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INFO One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
