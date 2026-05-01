@@ -4,8 +4,8 @@ title: "Available .INFO One-Word Domains"
 type: dataset
 authors:
   - name: "Unique Domains"
-version: "2026-04-26"
-date-released: "2026-04-26"
+version: "2026-05-01"
+date-released: "2026-05-01"
 url: "https://unique.domains/domains/tld/info"
 repository-code: "https://github.com/UniqueDomains/info-oneword-domains"
 license: "See LICENSE"
