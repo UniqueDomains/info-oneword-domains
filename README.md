@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .info one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **8,211 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 8,211 domains
+**Public extract:** 1,000 rows · **Live catalog:** 8,211 domains · **Median ask:** $2,093.85 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/info`  
 **Best for:** founders, investors, studios
 
@@ -72,16 +72,16 @@ print(df.head())
 | superhero.info  | premium   | $11,700.49 | —             | 84             | 23     | 9      | Epik LLC                                                  |
 | Rounds.info     | available | $35.98     | —             | 72             | 12     | 6      | namecheap                                                 |
 | skills.info     | resell    | —          | —             | 58             | 47     | 6      | GoDaddy.com, LLC                                          |
-| videogames.info | premium   | $10,527.84 | —             | 66             | 18     | 11     | Name.com, Inc.                                            |
+| cockpit.info    | premium   | $935.76    | —             | 74             | 21     | 7      | InterNetX GmbH                                            |
 | flipped.info    | available | $4.99      | —             | 52             | 12     | 7      | name.com                                                  |
 | Ryan.info       | resell    | —          | —             | 60             | 44     | 4      | GoDaddy.com, LLC                                          |
-| hookup.info     | premium   | $1,184.50  | —             | 76             | 16     | 7      | GoDaddy.com, LLC                                          |
+| videogames.info | premium   | $10,527.84 | —             | 66             | 18     | 11     | Name.com, Inc.                                            |
 | stackup.info    | available | $4.99      | —             | 64             | 11     | 8      | name.com                                                  |
 | homes.info      | resell    | —          | —             | 86             | 34     | 5      | NameCheap, Inc.                                           |
-| depression.info | premium   | $1,436.80  | —             | 52             | 16     | 10     | Vautron Rechenzentrum AG                                  |
+| hookup.info     | premium   | $1,184.50  | —             | 76             | 16     | 7      | GoDaddy.com, LLC                                          |
 | tomorrows.info  | available | $4.75      | $29.49        | 60             | 11     | 9      | namesilo                                                  |
 | roots.info      | resell    | —          | —             | 74             | 34     | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| bottles.info    | premium   | $11,700.49 | —             | 62             | 12     | 7      | Epik LLC                                                  |
+| depression.info | premium   | $1,436.80  | —             | 52             | 16     | 10     | Vautron Rechenzentrum AG                                  |
 | QandA.info      | available | $35.98     | —             | 80             | 10     | 7      | namecheap                                                 |
 | partners.info   | resell    | —          | —             | 61             | 32     | 8      | Dynadot Inc                                               |
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 8,211 live domains                               |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 8,211 live domains                         |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is entirely .info, so the main question is not extension mix but name quality inside the extension. The sample includes strong generic keywords such as database.info, vehicle.info, and assure.info, alongside longer or narrower terms like dogtoothgrass.info. For founders, the best picks are clear, memorable words that still feel credible on .info. For investors, the key test is whether the keyword has broad commercial relevance and a realistic entry price. With a median ask of $2,094, price discipline matters. Short, exact-match words usually deserve the closest review, while overly specific terms need stronger conviction.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All results are .info domains, so extension risk is consistent
+- Median ask is $2,094 across this selection
+- Prioritize clear generic words like database or vehicle
+- Be cautious with long or niche terms with narrow demand
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INFO One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INFO One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
