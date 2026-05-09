@@ -986,6 +986,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 7946f783-55d6-4d87-bafa-69af3c737f3a,rugbyfootball.info,available,4.99,,68,2,14,name.com,,
 79572b5e-f32a-4b9a-baec-a3769c22f9a2,troublefree.info,available,4.99,,66,6,12,name.com,,
 796e0918-8c4f-4e85-b053-2f06167c5fb1,notleast.info,available,4.99,,62,1,9,name.com,,
+798a0983-8bab-48d4-9aae-754bcd063008,provision.info,resell,,,76,20,9,"Spaceship, Inc.",11/08/2023 17:00,11/08/2027 17:00
 79b9adab-0c67-484d-90fb-a89fe9b55164,teaspoonful.info,available,4.99,,66,1,11,name.com,,
 79d28004-5685-43c8-bc62-d5a03eca8425,getiton.info,available,4.99,,84,3,9,name.com,,
 79fe1844-ccd4-4c9d-ba37-5487e384e8e1,toneup.info,available,4.99,,80,5,7,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 7a683733-fc6d-4629-8b02-a7c67638696d,chairs.info,premium,11700.49,,54,11,6,Epik LLC,22/09/2001 05:02,22/09/2026 05:02
 7a93ea34-9231-4f5b-9f32-106c8eeab373,factories.info,resell,,,54,7,9,"NameCheap, Inc.",08/07/2022 07:46,08/07/2026 07:46
 7aa1bbf7-7155-480f-95c8-f79fd9febc8a,getthedoor.info,available,4.99,,76,0,12,name.com,,
-7aa37a2f-277e-4311-a327-21869f4619da,collapses.info,available,4.75,29.49,38,1,9,namesilo,,
