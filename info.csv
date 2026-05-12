@@ -300,6 +300,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 23c64853-07b6-4111-9ca5-75ff3dbdeca4,filein.info,available,4.99,,68,2,7,name.com,,
 23d5834d-eac7-4a90-8a7e-b601357d318d,intrinsicvalue.info,available,4.99,,66,4,15,name.com,,
 2413ad4e-87ba-465c-be48-43ad349da49b,thewholeshop.info,available,4.99,,42,1,14,name.com,,
+241480d5-8e12-4738-8955-29941f0bfc15,chiefexecutive.info,premium,,,74,5,15,,,
 24148d32-5ff6-4d0c-8fd9-bed8b7214eae,goaroundincircles.info,available,4.99,,62,0,20,name.com,,
 243a5a03-6da9-44dd-8514-70b8684a8ff4,asthewindblows.info,available,4.99,,40,1,17,name.com,,
 247ef086-ec9b-4611-8cea-6e2af8763c68,overstatement.info,available,4.99,,54,2,13,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 7a4f1959-4e6d-419c-b7d0-befa0be52a5e,heroes.info,resell,,,68,29,6,Dynadot Inc,22/09/2001 06:07,22/09/2027 06:07
 7a5cae10-0c99-4692-b239-42e4a80c26c6,coffeehousing.info,available,4.75,29.49,72,1,13,namesilo,,
 7a62c04b-4fa3-45f2-b294-4ab86b2ffb3e,cuttothechase.info,available,4.99,,68,4,16,name.com,,
-7a683733-fc6d-4629-8b02-a7c67638696d,chairs.info,premium,11700.49,,54,11,6,Epik LLC,22/09/2001 05:02,22/09/2026 05:02
