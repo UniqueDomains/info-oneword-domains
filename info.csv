@@ -274,6 +274,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 20f1bb00-c710-4280-8d0b-47c84d91dedb,engines.info,resell,,,58,11,7,InterNetX GmbH,30/11/2004 09:43,30/11/2026 09:43
 20fe6d1b-21b0-4052-9093-7bead35d1459,intheeventthat.info,available,4.99,,48,1,17,name.com,,
 212bd54f-189e-4118-902b-4a9d0b882608,prefers.info,available,4.75,29.49,52,3,7,namesilo,,
+214b30e6-d3db-473f-ac3a-b86a885a4eed,givethanks.info,available,4.75,29.49,58,5,11,namesilo,,
 214ee0af-cb7f-4d8c-b77a-428ff4d6cf34,privatesector.info,available,4.99,,64,2,14,name.com,,
 2151d6fa-98b4-46bb-ab4b-ad8d5fc56ac1,contains.info,available,4.99,,54,4,8,name.com,,
 216c9146-ad6e-4be8-9d65-ccb401278eb7,DalaiLamas.info,available,4.75,29.49,62,0,11,namesilo,,
@@ -596,7 +597,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 48e6daf1-f6cb-46ff-83e1-72cc9c011bc0,rarer.info,available,4.75,29.49,52,3,5,namesilo,,
 49100978-419b-4679-a7c9-2f99e9060506,shrugs.info,available,4.75,29.49,50,2,6,namesilo,,
 494fb411-1ddf-4eb2-adac-c9e126362170,goplatinum.info,available,4.99,,76,1,11,name.com,,
-4970ed69-1a40-4776-915b-66741c72c609,coverart.info,available,4.99,,78,9,9,name.com,,
+4970ed69-1a40-4776-915b-66741c72c609,coverart.info,available,4.99,,78,5,9,name.com,,
 497f581b-2283-4e32-95b5-1523e23b470c,tablespoons.info,available,4.75,29.49,54,2,11,namesilo,,
 49b10cab-72ae-406b-9953-e8e48e8bffa6,lunchmoney.info,available,4.99,,78,7,11,name.com,,
 49c03676-3377-473f-9e60-cc637065bf6d,ifyouwill.info,available,4.99,,61,2,11,name.com,,
@@ -863,6 +864,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6a149824-f26d-419f-a768-c1f770b22236,seniorcollege.info,available,4.99,,67,1,14,name.com,,
 6a1ba05b-2f24-4ddb-9c53-eb9b51872a19,showedup.info,available,4.75,29.49,59,1,9,namesilo,,
 6a2713b8-3b79-40dc-89c2-879e01706850,intimewith.info,available,4.75,29.49,52,0,12,namesilo,,
+6a27878a-f1c1-4442-802a-9b7caab26b31,oncemore.info,available,4.75,29.49,61,6,9,namesilo,,
 6a6a8426-aaeb-44ea-8c8c-f358c64e192d,costprice.info,available,4.99,,70,4,10,name.com,,
 6a863157-1d47-4512-9198-9cd781030062,CountyofHarris.info,available,35.98,,42,1,16,namecheap,,
 6a8f6f34-3315-47f1-a17f-7d3597b5a70c,tongues.info,available,4.99,,51,6,7,name.com,,
@@ -983,6 +985,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 78b3cc1a-e73e-45ca-95a2-1f02b201a9a4,thickens.info,available,4.75,29.49,48,1,8,namesilo,,
 78bb1fd5-4e7d-4e55-9e5a-8589161d6904,predisposition.info,available,4.99,,62,1,14,name.com,,
 78c81974-e120-49c2-8a81-99ef0b2e5424,stages.info,resell,,,57,12,6,"Sav.com, LLC - 33",23/02/2026 15:15,23/02/2027 15:15
+78effc51-a319-42c9-9c6b-e2dbe6329b78,deepest.info,available,4.99,,56,4,7,name.com,,
 7907aa05-6a80-4cd2-a313-5853ce25f777,flaxcotton.info,available,4.99,,56,0,11,name.com,,
 790c7b5a-8540-48c2-8854-a74cbbd47ccb,buttercups.info,available,4.99,,68,4,10,name.com,,
 79132481-e2fd-4678-b3fe-a3cec90b362d,announces.info,available,4.75,29.49,58,2,9,namesilo,,
@@ -996,6 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 7a223d5a-3754-446e-aae7-1f3e97e41026,grayest.info,available,4.75,29.49,50,1,7,namesilo,,
 7a2fbdef-f474-464b-9d12-24601d4e7cdb,Igirder.info,available,35.98,,58,1,8,namecheap,,
 7a4b2751-9961-496e-a038-b9c5a534f3cb,generalsofthearmy.info,available,4.75,29.49,48,1,20,namesilo,,
-7a4f1959-4e6d-419c-b7d0-befa0be52a5e,heroes.info,resell,,,68,29,6,Dynadot Inc,22/09/2001 06:07,22/09/2027 06:07
-7a5cae10-0c99-4692-b239-42e4a80c26c6,coffeehousing.info,available,4.75,29.49,72,1,13,namesilo,,
-7a62c04b-4fa3-45f2-b294-4ab86b2ffb3e,cuttothechase.info,available,4.99,,68,4,16,name.com,,
