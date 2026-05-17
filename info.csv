@@ -19,7 +19,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 02be5460-7bf9-497e-a9bf-61773451a489,childsafetyseats.info,available,4.75,29.49,42,1,18,namesilo,,
 03221db4-a768-4c2f-9420-1135e5ee2b3c,highschools.info,resell,,,65,4,12,"Sav.com, LLC",26/02/2018 10:05,26/02/2027 10:05
 03237b90-6c60-44c9-82b8-11fbfb00b05f,slampoetry.info,available,4.99,,78,2,11,name.com,,
-0323d207-9ade-4d22-9592-e9c16027341f,takes.info,resell,,,55,10,5,"GoDaddy.com, LLC",11/08/2013 11:31,11/08/2026 11:31
+0323d207-9ade-4d22-9592-e9c16027341f,takes.info,resell,,,55,11,5,"GoDaddy.com, LLC",11/08/2013 11:31,11/08/2026 11:31
 03595c70-5f38-4e6c-929f-f1c49cbfd89d,CountyofHudson.info,available,35.98,,44,1,16,namecheap,,
 0362ee72-f6f4-46dc-b49b-feebae4cbce4,busoperator.info,available,4.75,29.49,50,2,12,namesilo,,
 0364963a-704d-4ff5-926c-ce5b430118e0,waxedpaper.info,available,4.99,,65,1,11,name.com,,
@@ -145,7 +145,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 12b3eba1-fb63-4340-b757-a1606df69cb0,flashmemory.info,available,4.99,,76,2,12,name.com,,
 12f3c8d8-dec3-4b7e-87f4-dd124c1e7aea,determination.info,available,4.99,,70,9,13,name.com,,
 12fe5e64-ed47-4e58-ada0-4573789e7b62,inthemoment.info,available,4.99,,48,7,13,name.com,,
-130a5175-065b-41c3-a4da-1e5bf64df93f,getoutof.info,available,4.99,,79,2,10,name.com,,
+130a5175-065b-41c3-a4da-1e5bf64df93f,getoutof.info,available,4.99,,79,1,10,name.com,,
 1314dc88-4134-413d-a142-194e8b7e4c94,goingbad.info,available,4.75,29.49,46,1,9,namesilo,,
 137b2141-1eb9-4306-9591-4d67711b7a8b,thanksaton.info,available,4.99,,62,1,12,name.com,,
 13b1ada8-bee8-4441-bca4-7078b567a3c0,closeones.info,available,4.99,,52,1,10,name.com,,
@@ -174,7 +174,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 15e756da-1b3d-430e-86fc-a486c48fd3c6,continentalplate.info,available,4.99,,42,1,17,name.com,,
 1601728c-3f16-4297-aaf3-985239acc328,pairofshades.info,available,4.99,,65,0,14,name.com,,
 16047cf0-d619-45eb-8466-f4ace3a50242,openfaced.info,available,4.99,,64,1,10,name.com,,
-16086956-66b0-48db-af37-ae4c44461adb,comeintoeffect.info,available,4.99,,70,0,16,name.com,,
+16086956-66b0-48db-af37-ae4c44461adb,comeintoeffect.info,available,4.99,,70,1,16,name.com,,
 16359c98-b306-404f-9b08-2749fce2f05b,takethelead.info,available,4.99,,78,4,13,name.com,,
 163e985b-f610-4428-8447-6e493fdff12f,thanksaheap.info,available,4.99,,54,0,13,name.com,,
 16450ee6-ec0b-42bc-a6f2-79d40230f297,breakfasts.info,available,4.99,,60,2,10,name.com,,
@@ -205,7 +205,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 19ce2bbe-15b2-478e-99b2-37cbd9f50d3e,collars.info,available,4.75,29.49,58,6,7,namesilo,,
 19f6f26e-6993-4de0-9d48-7eef1dd028ed,neckandneck.info,available,4.99,,46,1,13,name.com,,
 1a064bfd-726b-4d43-a93b-1af40cddeefa,bloodpressuremeter.info,available,4.99,,48,1,20,name.com,,
-1a1a367f-eae0-4add-b790-b5b4d68c8bc8,mistakenidentity.info,available,4.99,,52,2,17,name.com,,
+1a1a367f-eae0-4add-b790-b5b4d68c8bc8,mistakenidentity.info,available,4.99,,52,1,17,name.com,,
 1a202c4b-c338-4a87-93f4-d2fc7be4c692,goonrecord.info,available,4.99,,70,1,12,name.com,,
 1a2c0f01-3753-4b94-bcb0-03344d5a140a,thedamn.info,available,4.99,,38,1,8,name.com,,
 1a5b4fb0-6381-455a-9dd7-096761e6da18,cometo.info,resell,,,74,8,7,IONOS SE,16/11/2017 11:39,16/11/2026 11:39
@@ -220,13 +220,13 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1b41ac4b-f514-4d82-8327-094376d75839,paperingover.info,available,4.99,,53,1,13,name.com,,
 1b41bef6-725d-4bff-a7cc-5e11e79331c2,demonstrates.info,available,4.75,29.49,56,2,12,namesilo,,
 1b7be81b-75dd-4b52-ac8c-52d7cd3132ca,hovers.info,available,4.75,29.49,56,3,6,namesilo,,
-1b997064-2705-4c76-84be-fc8dda3c4081,posterpaint.info,available,4.99,,74,2,12,name.com,,
+1b997064-2705-4c76-84be-fc8dda3c4081,posterpaint.info,available,4.99,,74,1,12,name.com,,
 1ba30650-a48d-4ef2-b236-2537ce170238,CountyofRussell.info,available,35.98,,42,1,17,namecheap,,
-1be4fa30-2cc9-4d8a-b40b-729fc8005265,voices.info,resell,,,60,19,6,"GoDaddy.com, LLC",14/09/2001 17:23,14/09/2026 17:23
+1be4fa30-2cc9-4d8a-b40b-729fc8005265,voices.info,resell,,,60,17,6,"GoDaddy.com, LLC",14/09/2001 17:23,14/09/2026 17:23
 1be732f1-ed17-4921-a062-0c7904bfb977,sandals.info,resell,,,66,12,7,Dynadot Inc,27/12/2015 10:06,27/12/2026 10:06
 1bf148f9-9be4-483a-9284-a2034789b89e,tractors.info,resell,,,56,8,8,"GoDaddy.com, LLC",12/09/2001 09:07,12/09/2026 09:07
 1c06c12c-bf88-4165-a68e-d5d1b0606886,walked.info,available,4.99,,60,5,6,name.com,,
-1c0770ff-e68b-4fc4-883c-6f231a3a9d80,rakeout.info,available,4.99,,66,1,8,name.com,,
+1c0770ff-e68b-4fc4-883c-6f231a3a9d80,rakeout.info,available,4.99,,66,0,8,name.com,,
 1c2ae94f-6a50-4a7c-bb13-5b586941163f,satisfies.info,available,4.99,,67,2,9,name.com,,
 1c2e7e9b-9b16-4117-8e0d-fa776176ea2a,Ihaveatoothache.info,available,35.98,,50,1,18,namecheap,,
 1c438881-0fcc-4a51-a733-0d1a98dd4b27,informs.info,available,4.99,,62,6,7,name.com,,
@@ -293,7 +293,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 22f22625-7464-412d-a91f-ea5357b9f7ef,elects.info,available,4.75,29.49,56,4,6,namesilo,,
 2301b748-3444-4f86-a639-492afdda7943,getjiggy.info,available,4.99,,80,2,9,name.com,,
 2328f61b-4a56-489a-8e27-41718158d34b,SanDiego.info,resell,,,74,29,9,Epik LLC,13/07/2002 19:25,13/07/2026 19:25
-233a6fb6-a6be-4d25-8847-7e149db52283,likeitorleaveit.info,available,4.99,,44,2,19,name.com,,
+233a6fb6-a6be-4d25-8847-7e149db52283,likeitorleaveit.info,available,4.99,,44,1,19,name.com,,
 2351590c-537c-440d-92ec-5d92debdc126,tartarsauce.info,available,4.99,,76,2,12,name.com,,
 2396ee37-08aa-4592-ac55-93b1c60f3194,givingin.info,available,4.99,,50,1,9,name.com,,
 239d5bd2-2bc9-4f6e-a30c-080bafe6839a,hears.info,available,4.99,,48,4,5,name.com,,
@@ -310,8 +310,8 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 24f37f2c-73f5-45a0-b4f8-23f658ab03cc,barkeeper.info,available,4.99,,70,4,10,name.com,,
 25276b65-2c9d-42f5-995f-0925f08e7a7d,manyandvarious.info,available,4.99,,46,2,16,name.com,,
 255fb1aa-6d04-46e5-af84-e34ac0876a04,makeupkiss.info,available,4.75,29.49,67,1,12,namesilo,,
-259a6dda-319d-4e6b-ac89-6797adabfbe4,goround.info,available,4.99,,68,3,8,name.com,,
-25cb560e-8e38-4bd0-9666-d8517fb98e04,backtaxes.info,available,4.99,,62,3,10,name.com,,
+259a6dda-319d-4e6b-ac89-6797adabfbe4,goround.info,available,4.99,,68,2,8,name.com,,
+25cb560e-8e38-4bd0-9666-d8517fb98e04,backtaxes.info,available,4.99,,62,2,10,name.com,,
 25f0af73-c47d-46cf-9f9b-7318f32f9b90,letrip.info,available,4.99,,75,2,7,name.com,,
 25f2719f-de2a-49c0-b3ba-12742e315157,clearthetable.info,available,4.99,,64,1,15,name.com,,
 260131f6-104b-4459-a9ad-e6e5bde12a45,commonpurposes.info,available,4.75,29.49,48,2,15,namesilo,,
@@ -331,7 +331,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 27ac8b8d-05d6-4410-9bc0-7eaae742ad90,datadomain.info,available,4.99,,52,4,11,name.com,,
 28106fd5-79be-428e-944c-a06507d7bd06,costcontainment.info,available,4.99,,42,2,16,name.com,,
 28113b74-eab4-4450-8ba8-73b6ad2e2da3,makeinto.info,available,4.99,,76,1,9,name.com,,
-285ba756-d841-4ea2-b91b-192b320a78ce,costcutting.info,available,4.99,,64,3,12,name.com,,
+285ba756-d841-4ea2-b91b-192b320a78ce,costcutting.info,available,4.99,,64,2,12,name.com,,
 2869af1d-4c8a-4710-97a3-36606b9e524a,startover.info,available,4.99,,78,6,10,name.com,,
 286ba9a2-d30e-4910-a984-2aeb95922ccf,useit.info,available,4.99,,94,7,6,name.com,,
 2878b061-d872-40a2-9a65-109f1f93cdd5,nodded.info,available,4.99,,56,2,6,name.com,,
@@ -347,7 +347,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2982bbe5-d8d1-4a3a-aab9-fe86c354a187,hookup.info,premium,1184.5,,76,16,7,"GoDaddy.com, LLC",15/01/2004 03:56,15/01/2027 03:56
 298f37d8-78eb-4f2a-b05d-dc6957296b2c,bloodpressuregage.info,available,4.99,,48,1,19,name.com,,
 299ffed8-ffa7-47ee-82ff-726459dbc8b4,bonfires.info,available,4.75,29.49,60,4,8,namesilo,,
-29af6601-ab6a-4523-ad56-e4d80c546706,getthejobdone.info,available,4.99,,74,2,16,name.com,,
+29af6601-ab6a-4523-ad56-e4d80c546706,getthejobdone.info,available,4.99,,74,3,16,name.com,,
 29be26ec-0363-4484-a99b-f6c1d49bd153,coffeeandcakes.info,available,4.99,,72,2,16,name.com,,
 29d18fec-cce7-4157-bf5c-e4b1b601b0f8,rollout.info,resell,,,72,13,8,Mesh Digital Limited,27/05/2025 08:19,27/05/2026 08:19
 29e3d91b-b103-43f5-b8fa-090a271eba70,grayer.info,available,4.75,29.49,60,3,6,namesilo,,
@@ -363,7 +363,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2b7810db-f7c9-425f-8169-37e6b2fec3f0,letsomethingride.info,available,4.99,,67,1,18,name.com,,
 2b8491dc-d6e6-4f3d-acf8-89adceb08eda,wafers.info,available,4.75,29.49,54,4,6,namesilo,,
 2b9618b7-cb6d-4764-af6b-b96c833327dd,verbalization.info,available,4.99,,58,1,13,name.com,,
-2b96e439-66b5-472c-8995-6f75696a7344,makeoneselfclear.info,available,4.99,,70,1,18,name.com,,
+2b96e439-66b5-472c-8995-6f75696a7344,makeoneselfclear.info,available,4.99,,70,0,18,name.com,,
 2b986da5-6f3b-40bd-ad03-528201d100f8,werewolves.info,available,4.75,29.49,44,7,10,namesilo,,
 2bbdb9b4-eb25-4322-85a7-a8f096f10c91,passports.info,resell,,,59,10,9,Zhuimi Inc,02/10/2025 15:16,02/10/2026 15:16
 2be334c2-3894-433e-aa26-99010266f73c,letonerip.info,available,4.99,,75,1,11,name.com,,
@@ -376,7 +376,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2cd014eb-fd80-4324-99f1-62b132c95660,cucumbers.info,resell,,,74,4,9,"GoDaddy.com, LLC",04/12/2025 14:59,04/12/2026 14:59
 2d172bed-3858-4a96-9cf7-ae4dbc957783,fittest.info,available,4.99,,58,7,7,name.com,,
 2d42e112-7cc9-4497-b66b-2b1c8f03aa4c,personals.info,resell,,,47,8,9,Moniker Online Services LLC,13/07/2002 19:32,13/07/2026 19:32
-2d6e1152-e04b-4509-ac1c-3c88a744fe5c,letoneoff.info,available,4.99,,77,1,11,name.com,,
+2d6e1152-e04b-4509-ac1c-3c88a744fe5c,letoneoff.info,available,4.99,,77,0,11,name.com,,
 2d7b7999-1fe7-4885-8ba6-607873e55145,Caliorbust.info,available,35.98,,56,1,12,namecheap,,
 2d999e16-a26e-48d8-8de2-e15ba6d8deb3,getontheendof.info,available,4.99,,64,0,17,name.com,,
 2d9b6aec-2fef-4f23-abbe-4c020b5c0270,windowdisplay.info,available,4.99,,42,2,14,name.com,,
@@ -384,7 +384,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2dc4a8db-9ef3-433a-8b69-4493b9b7a464,started.info,resell,,,60,11,7,"Sav.com, LLC",27/03/2025 22:07,27/03/2027 22:07
 2de5977c-74ee-4e7f-a935-de8b11b934f9,inthisinstance.info,available,4.99,,44,1,16,name.com,,
 2dfc1516-c378-4d69-844b-210ce8a60bdd,howthedevil.info,available,4.99,,40,0,13,name.com,,
-2e3ff624-5d68-41e7-bff5-8edd066053ba,children.info,resell,,,68,21,8,"NameSilo, LLC",13/07/2002 19:40,13/07/2026 19:40
+2e3ff624-5d68-41e7-bff5-8edd066053ba,children.info,resell,,,68,19,8,"NameSilo, LLC",13/07/2002 19:40,13/07/2026 19:40
 2e49ba17-5533-4136-8112-098409b392f2,prejudices.info,available,4.99,,38,1,10,name.com,,
 2e508c33-e645-4a1d-900e-c3cb77de604c,fellowfeel.info,available,4.99,,72,1,10,name.com,,
 2e50cc37-f247-4d06-b5ba-58fd353c02a9,somuchso.info,available,4.99,,50,1,10,name.com,,
@@ -415,9 +415,9 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 30b5ed8c-928d-4503-9006-ef2b725b3e09,collarbones.info,available,4.75,29.49,48,1,11,namesilo,,
 30cdb2dc-7b19-471d-ad54-d20e802aeacd,bloodvessels.info,available,4.75,29.49,48,1,13,namesilo,,
 31119a4c-d36e-48f4-b5f4-3f917283ba44,solarpower.info,resell,,,84,15,11,Name SRS AB,13/07/2002 19:33,13/07/2026 19:33
-313ac966-11c1-4912-813f-d3d1cc84347c,letlie.info,available,4.99,,72,1,7,name.com,,
+313ac966-11c1-4912-813f-d3d1cc84347c,letlie.info,available,4.99,,72,0,7,name.com,,
 314568c8-3121-4f8a-b907-65d703a720fc,wheels.info,resell,,,76,20,6,"Domain Registration Services, Inc. dba dotEarth.com",13/07/2002 19:28,13/07/2026 19:28
-31a5a64c-3347-4b94-a187-457464686e97,hitwith.info,available,4.99,,76,2,8,name.com,,
+31a5a64c-3347-4b94-a187-457464686e97,hitwith.info,available,4.99,,76,1,8,name.com,,
 31b27365-0899-4192-93d3-df9abaedd7cb,studs.info,resell,,,69,7,5,"GoDaddy.com, LLC",13/07/2002 19:34,13/07/2026 19:34
 31bf4d93-7674-4de0-8898-18fdac514db0,breastaugmentation.info,resell,,,66,5,19,InterNetX GmbH,03/12/2003 05:31,03/12/2026 05:31
 31cc33ad-60dc-4c25-925e-7ff4d588a987,hammeraway.info,available,4.99,,66,0,11,name.com,,
@@ -425,21 +425,21 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 32043ecd-e903-451c-a28a-af822a8190ad,gowalking.info,available,4.99,,50,2,10,name.com,,
 32257b29-a710-49b1-8aeb-390401f1f89a,combinations.info,available,4.99,,56,4,12,name.com,,
 3225d687-563f-4715-90e3-13b0285f93eb,keepthefaith.info,available,4.99,,70,4,14,name.com,,
-326ea408-07b2-4aa7-a617-03893094f7dd,getwet.info,available,4.99,,74,5,7,name.com,,
+326ea408-07b2-4aa7-a617-03893094f7dd,getwet.info,available,4.99,,74,7,7,name.com,,
 329b02a0-bed5-47c7-b554-82c44150c655,riders.info,resell,,,60,14,6,"Sav.com, LLC - 19",10/06/2025 15:15,10/06/2026 15:15
 32ab4d79-1923-4c9c-a5c6-1601d1454a63,turnsback.info,available,4.99,,53,1,10,name.com,,
 32f503dc-b6f4-465d-81f2-92c94469e889,accountreceivable.info,available,4.99,,62,1,18,name.com,,
 331f8769-8386-49fb-bd62-7424a4829494,reckoned.info,available,4.99,,50,1,8,name.com,,
-3339541b-4a7d-4b42-9c03-997d0516bb8b,cometoaboil.info,available,4.99,,62,1,14,name.com,,
+3339541b-4a7d-4b42-9c03-997d0516bb8b,cometoaboil.info,available,4.99,,62,0,14,name.com,,
 339daf84-fd9c-4a27-8975-811210a055ae,privatelife.info,available,4.99,,78,4,12,name.com,,
 33b2b401-db05-4293-abbb-55a25ce16405,textmessaging.info,available,4.99,,66,2,14,name.com,,
 33cd6cf0-bd1a-450b-acb5-6aa15fe2d963,hairdryers.info,available,4.75,29.49,60,2,10,namesilo,,
 33f5f516-ebb0-4e32-8c32-64055ce8995e,interpersonally.info,available,4.75,29.49,60,1,15,namesilo,,
 3407f04b-14d9-410b-a1ac-8a8da1153937,inorderfor.info,available,4.99,,60,0,12,name.com,,
 3414f9c5-72f9-4495-b72c-3e3c884d0fca,operacake.info,available,4.99,,80,1,10,name.com,,
-3428c47d-ec65-4331-a4b6-643478d0dd6e,getoffwith.info,available,4.99,,76,1,12,name.com,,
+3428c47d-ec65-4331-a4b6-643478d0dd6e,getoffwith.info,available,4.99,,76,0,12,name.com,,
 34a70a22-97ee-481d-b33e-b91655b0387e,upandaround.info,available,4.99,,60,1,13,name.com,,
-34b08fc1-5acc-4d4b-b1cc-299a91c6e22b,backtofront.info,available,4.99,,46,3,13,name.com,,
+34b08fc1-5acc-4d4b-b1cc-299a91c6e22b,backtofront.info,available,4.99,,46,2,13,name.com,,
 34b716dc-3933-42a2-9d07-5bdff5c02577,demoting.info,available,4.75,29.49,46,1,8,namesilo,,
 3519455c-8b26-48dc-8039-ce6eeb8e2036,newsletters.info,resell,,,63,15,11,"GoDaddy.com, LLC",15/09/2001 08:21,15/09/2026 08:21
 3571350b-6323-47fc-a88d-3cda031c2e5b,motorsport.info,resell,,,74,23,10,"Ascio Technologies, Inc. Danmark - Filial af Ascio technologies, Inc. USA",13/07/2002 19:28,13/07/2026 19:28
@@ -452,15 +452,15 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 36795ea4-0f4b-4ac7-956d-af6e0a8545e6,stormed.info,available,4.99,,50,3,7,name.com,,
 36e7b87b-043c-4429-90b9-1e415d92fac5,highseas.info,resell,,,74,6,9,"GoDaddy.com, LLC",19/01/2012 11:34,19/01/2027 11:34
 3709fdaf-d56f-4dfd-bd51-d84b3683e2a2,preferences.info,available,4.99,,80,7,11,name.com,,
-371e5357-c1dd-4567-8f23-97fc8d9e7304,breatheeasy.info,available,4.99,,78,7,12,name.com,,
+371e5357-c1dd-4567-8f23-97fc8d9e7304,breatheeasy.info,available,4.99,,78,6,12,name.com,,
 37af4362-396d-4f2e-8b96-2fe6a7489445,sentiments.info,available,4.99,,56,6,10,name.com,,
 37cb1205-3ed3-4a43-ab1b-1f15da4c922c,hangin.info,available,4.99,,76,4,7,name.com,,
 380afe65-4a4d-404b-b03e-9dc7be72be35,distinctions.info,available,4.75,29.49,62,3,12,namesilo,,
 3818032c-bd11-47b0-bc76-273bcc0f5118,stackup.info,available,4.99,,64,11,8,name.com,,
 38477a00-3e82-469d-b588-13dc1c0f8b84,permitted.info,available,4.99,,64,5,9,name.com,,
-384b25fb-efaf-43a5-8eca-23121f40980e,thereyouare.info,available,4.99,,46,3,13,name.com,,
+384b25fb-efaf-43a5-8eca-23121f40980e,thereyouare.info,available,4.99,,46,4,13,name.com,,
 386e5ec1-0fc8-40bf-8960-632f80100865,styling.info,resell,,,78,11,7,"Sav.com, LLC - 17",04/04/2025 15:15,04/04/2027 15:15
-3887f5c7-791a-468a-b71e-312d65f8aa5e,turninto.info,available,4.99,,86,2,9,name.com,,
+3887f5c7-791a-468a-b71e-312d65f8aa5e,turninto.info,available,4.99,,86,3,9,name.com,,
 38bcd778-240f-4d1d-a2c3-6e87e52d22a6,cliponnecktie.info,available,4.75,29.49,48,1,15,namesilo,,
 38c0d8a3-aae5-49e5-be50-dcec56b81774,hammerout.info,available,4.99,,70,1,10,name.com,,
 38dd4f64-dff2-40a0-b33c-faaf6567d4ae,genericnames.info,available,4.75,29.49,42,2,13,namesilo,,
@@ -489,7 +489,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3c7fe90b-0b6e-4cac-893b-177e8a98186b,officeclerk.info,available,4.99,,49,1,12,name.com,,
 3cead5cc-d32e-4ca3-8036-fa703fce1692,majorityleader.info,available,4.99,,54,1,15,name.com,,
 3cfeaa69-e13b-4645-904b-0b2ff510dc1a,samples.info,resell,,,60,12,7,"eNom, LLC",14/09/2001 14:13,14/09/2026 14:13
-3d612bb7-b00f-4c8e-8ccc-344576bc5666,cheeseontoast.info,available,4.99,,64,1,15,name.com,,
+3d612bb7-b00f-4c8e-8ccc-344576bc5666,cheeseontoast.info,available,4.99,,64,0,15,name.com,,
 3d94f9b4-3f24-467d-a2b0-d3f8929a8c30,usualoffice.info,available,4.99,,57,0,12,name.com,,
 3df0e4af-21e4-49e7-9179-e549fa957d6f,sameoldstuff.info,available,4.99,,34,1,14,name.com,,
 3e1e03d5-7dc9-450e-8aee-9a2022203d5e,birches.info,available,4.75,29.49,57,4,7,namesilo,,
@@ -507,9 +507,9 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3ff98b7d-195d-46a4-b68c-4ad9abadfa74,divineinspiration.info,available,4.99,,56,1,18,name.com,,
 400fbbb3-cce8-4a37-80d3-ce310c10afb3,uptoanything.info,available,4.99,,52,1,14,name.com,,
 401cb8d1-a26e-447c-93e1-c2cdd189662a,goaroundthehouses.info,available,4.99,,60,0,20,name.com,,
-4023cc4b-1fc4-43ad-b03a-8cb25caac69c,cometrue.info,available,4.99,,82,5,9,name.com,,
+4023cc4b-1fc4-43ad-b03a-8cb25caac69c,cometrue.info,available,4.99,,82,6,9,name.com,,
 40567603-1c6a-4406-9e5b-1a2a7bd268e4,pileup.info,available,4.99,,65,3,7,name.com,,
-407b22f9-d0a6-428b-8568-0d5fcd5246af,ballplaying.info,available,4.99,,70,1,12,name.com,,
+407b22f9-d0a6-428b-8568-0d5fcd5246af,ballplaying.info,available,4.99,,70,0,12,name.com,,
 4080bfcc-5660-4e2b-956c-64717bdb36b6,fellowfeeling.info,available,4.99,,62,1,14,name.com,,
 408697e2-83a5-430d-9ff0-7578befe6e4c,commonhall.info,available,4.99,,58,1,11,name.com,,
 409910f6-1a14-402b-87fb-2ca146a1be6b,knocks.info,available,4.99,,48,5,6,name.com,,
@@ -540,7 +540,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 42dca320-9c74-4451-ad18-92ffc85b534b,majorityparliament.info,available,4.99,,50,1,19,name.com,,
 42dccbdd-24b4-4fd3-9074-60c54d9c8305,sexlife.info,available,4.99,,74,6,8,name.com,,
 42fee9e4-7e9d-43cf-9387-5c1dbef6bf73,subsequently.info,available,4.99,,58,1,12,name.com,,
-43230e86-1e82-431e-821e-b140317899e2,makeit.info,resell,,,82,22,7,"Sav.com, LLC - 20",31/08/2022 17:00,31/08/2026 17:00
+43230e86-1e82-431e-821e-b140317899e2,makeit.info,resell,,,82,21,7,"Sav.com, LLC - 20",31/08/2022 17:00,31/08/2026 17:00
 4325acdb-61f4-402c-bc3a-e73110506f3e,finds.info,resell,,,62,16,5,"Sav.com, LLC - 14",09/10/2025 15:15,09/10/2026 15:15
 43347164-8896-4db4-8ce8-215c94dd0fd9,excitingness.info,available,4.99,,68,1,12,name.com,,
 4356cbd3-91e0-498f-990c-f01f6a6d10a9,childcategory.info,available,4.75,29.49,42,1,14,namesilo,,
@@ -558,7 +558,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4468b391-809a-4402-96c1-29fd765e350c,makings.info,available,4.75,29.49,70,3,7,namesilo,,
 446e5636-63e0-4126-9700-022893d679b0,justgone.info,available,4.99,,61,2,9,name.com,,
 44a2b1ed-846a-4897-ad40-f0e7846b4b69,gotowards.info,available,4.99,,68,1,10,name.com,,
-44c9c502-821b-45c6-8c46-b2aa62d892cc,ballplayer.info,available,4.99,,74,3,11,name.com,,
+44c9c502-821b-45c6-8c46-b2aa62d892cc,ballplayer.info,available,4.99,,74,2,11,name.com,,
 44d77a39-9b9e-4679-8636-88929a5cbd47,piledup.info,available,4.75,29.49,52,1,8,namesilo,,
 44e1b2c2-e7ae-4783-9671-16e2010e1111,showered.info,available,4.99,,63,3,8,name.com,,
 44f24b98-4bc3-411e-8f8c-c3d1a847919b,dogsledding.info,available,4.75,29.49,76,2,11,namesilo,,
@@ -574,11 +574,11 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 45f36cfc-1107-4d97-8d7e-cb79c47d619e,goquietly.info,available,4.99,,66,1,10,name.com,,
 45f9db25-c392-4159-944d-62a5f52ba912,manyhappyreturns.info,available,4.99,,46,2,18,name.com,,
 4615fbff-76f2-4427-a690-ec553ac3dd7f,longago.info,available,4.99,,68,3,8,name.com,,
-462c1e03-cea4-44f3-b6b1-8bea285879a1,heavymetal.info,resell,,,70,15,11,"Sav.com, LLC - 18",25/12/2025 15:15,25/12/2026 15:15
+462c1e03-cea4-44f3-b6b1-8bea285879a1,heavymetal.info,resell,,,70,16,11,"Sav.com, LLC - 18",25/12/2025 15:15,25/12/2026 15:15
 4637df67-49a9-4b15-a246-4dcb2f137349,excitements.info,available,4.75,29.49,50,1,11,namesilo,,
 464400f4-d4d3-492b-81f3-e37111b26013,tomorrows.info,available,4.75,29.49,60,11,9,namesilo,,
 4647b872-ff43-43c8-8e16-22fe1d261e2e,squalls.info,available,4.99,,44,2,7,name.com,,
-46abfa5c-991c-40a9-a13b-9618da36acc7,runtheshow.info,available,4.99,,73,3,12,name.com,,
+46abfa5c-991c-40a9-a13b-9618da36acc7,runtheshow.info,available,4.99,,73,4,12,name.com,,
 46ba0e91-2bc6-4935-ab28-958725abefc3,letthedevilout.info,available,4.99,,62,1,17,name.com,,
 46e9e30c-b818-4971-b224-cdbac569a636,videogames.info,premium,10527.84,,66,18,11,"Name.com, Inc.",13/07/2002 19:24,13/07/2026 19:24
 46f0f8e6-bb44-49c8-b1f3-11cf186ac168,languages.info,resell,,,62,12,9,"Spaceship, Inc.",13/07/2002 19:40,13/07/2026 19:40
@@ -610,15 +610,15 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4a7bf9c3-ae34-44fe-8afd-85a076ddee8a,gostrong.info,available,4.99,,74,4,9,name.com,,
 4a88f2ef-84c5-43cc-abc9-d223b35f27a9,cables.info,resell,,,54,11,6,Dynadot Inc,06/09/2010 10:08,06/09/2027 10:08
 4a89d9d6-220b-49d5-938f-7e0c5490ee6d,chickenfriedsteak.info,available,4.99,,72,1,19,name.com,,
-4a92fd54-0ba7-455c-8506-01c7fa9fa99e,comeonstrong.info,available,4.99,,66,2,14,name.com,,
+4a92fd54-0ba7-455c-8506-01c7fa9fa99e,comeonstrong.info,available,4.99,,66,1,14,name.com,,
 4aba95ec-7c8f-4ce1-8abc-dbdb43f25f40,commonrun.info,available,4.99,,68,1,10,name.com,,
 4ac209e6-8ec9-4f0e-a46e-cbaeaf2f5ef4,makeof.info,available,4.99,,76,1,7,name.com,,
 4b0d7bab-f79c-44c5-a4d8-038b757a75fd,pointy.info,available,4.99,,70,10,6,name.com,,
 4b2f1e49-83c2-4b7f-aedf-f5d23dfaceb2,dogsleds.info,available,4.75,29.49,76,1,8,namesilo,,
-4b597037-386b-404c-87b4-c24cf342d6f5,getoneselftogether.info,available,4.99,,49,1,20,name.com,,
+4b597037-386b-404c-87b4-c24cf342d6f5,getoneselftogether.info,available,4.99,,49,0,20,name.com,,
 4b5e1ad8-39f1-4431-9c6e-d2510161b0cc,homes.info,resell,,,86,34,5,"NameCheap, Inc.",13/07/2002 19:24,13/07/2026 19:24
 4b5f1211-487b-4bae-a1a4-450453ff993b,CyberMonday.info,resell,,,78,10,12,"GoDaddy.com, LLC",22/11/2005 12:11,22/11/2026 12:11
-4b6a5ae8-12af-4dad-a2b2-dfcec037c748,leavetochance.info,available,4.99,,64,1,15,name.com,,
+4b6a5ae8-12af-4dad-a2b2-dfcec037c748,leavetochance.info,available,4.99,,64,0,15,name.com,,
 4bacc67e-aa4b-4e47-9c4f-76b395f42b9c,Ihaveasthma.info,available,35.98,,50,1,13,namecheap,,
 4bb25997-e1ef-45d4-bb47-1910ef7ec9a3,webcontent.info,available,4.99,,78,5,11,name.com,,
 4bb9d4ed-b83f-4182-be7f-a9e9f4e22b39,rubberbands.info,available,4.75,29.49,50,3,12,namesilo,,
@@ -628,7 +628,6 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4cf963d9-b47e-4d05-ba91-a66b2cadd122,carryover.info,available,4.99,,70,2,10,name.com,,
 4d49e2e5-4306-4f64-9f53-f0dd8bb4a26e,thrilly.info,available,4.99,,71,2,7,name.com,,
 4d4dca7c-e5d9-4b31-ae84-9a450004791e,lives.info,resell,,,64,15,5,"Sav.com, LLC - 13",26/02/2026 15:15,26/02/2027 15:15
-4d59fb30-ae9b-488b-b37d-0ad33dca4c00,instore.info,resell,,,74,12,8,"Sav.com, LLC - 3",29/05/2025 15:16,29/05/2026 15:16
 4d66f4da-9eff-4460-8e07-761417694c8c,involves.info,available,4.75,29.49,58,3,8,namesilo,,
 4dc53741-a31b-42b0-bf80-d36c3bbbe3f2,majorityminority.info,available,4.99,,42,0,17,name.com,,
 4de0bf3a-c2f1-4742-adf1-19b9fc2f05f5,devours.info,available,4.75,29.49,40,2,7,namesilo,,
@@ -639,8 +638,8 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4e66f06d-5e77-46d2-b6e2-7f9705c8ef36,flor.info,resell,,,74,14,4,Tucows Domains Inc.,27/08/2001 08:16,27/08/2026 08:16
 4e6e2cc6-2233-4107-9679-9761e1fc4bd0,divinejudgement.info,available,4.99,,47,1,16,name.com,,
 4e8720d7-e303-41b8-9648-0564c034a9af,godownhill.info,available,4.99,,68,1,11,name.com,,
-4eac3bd8-68ee-474d-b0a1-843f32ea73c6,gingerbread.info,available,4.99,,80,10,11,name.com,,
-4eb611f7-77a5-4831-a2d1-cc99664eed33,lies.info,resell,,,60,12,4,IONOS SE,13/09/2001 18:58,13/09/2026 18:58
+4eac3bd8-68ee-474d-b0a1-843f32ea73c6,gingerbread.info,available,4.99,,80,9,11,name.com,,
+4eb611f7-77a5-4831-a2d1-cc99664eed33,lies.info,resell,,,60,11,4,IONOS SE,13/09/2001 18:58,13/09/2026 18:58
 4ecfa343-c142-40e4-9813-07717ee73825,asperyourrequest.info,available,4.99,,48,1,19,name.com,,
 4ed388f3-5f3b-4e1c-a264-04f0dd7f2bc4,snowed.info,available,4.99,,52,3,6,name.com,,
 4ee7d038-59bf-4a4f-a464-a2fdfca47ba6,getroundto.info,available,4.99,,74,1,12,name.com,,
@@ -648,7 +647,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4f1ce8e7-f164-4601-b0f0-4a702820d335,night.info,resell,,,78,31,5,Dynadot8 LLC,21/09/2020 14:30,21/09/2026 14:30
 4f370cf3-e3ed-4292-9ffe-95f5f7046c5d,getstuckinto.info,available,4.99,,64,0,14,name.com,,
 4f73423b-b659-4286-85cb-8bd53aca3bfb,haveway.info,available,4.99,,74,1,8,name.com,,
-4faf58db-1cbf-490d-bc6c-8892dfe64f14,resources.info,resell,,,58,21,9,"Sav.com, LLC",23/08/2001 22:39,23/08/2026 22:39
+4faf58db-1cbf-490d-bc6c-8892dfe64f14,resources.info,resell,,,58,20,9,"Sav.com, LLC",23/08/2001 22:39,23/08/2026 22:39
 4fd36e97-c2c1-4ca8-aeb9-069266cd8517,goalongwith.info,available,4.99,,70,1,13,name.com,,
 4fde650c-03a7-407e-9e6f-77ffd62f6ec1,mothers.info,resell,,,68,12,7,"NameSilo, LLC",14/12/2017 10:06,14/12/2026 10:06
 501c6719-9ce2-45ff-9dbe-ff64650ee2eb,getturnedaround.info,available,4.75,29.49,64,1,17,namesilo,,
@@ -658,7 +657,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 50e16492-45fd-4917-9efc-5b9ba935c4b9,trussmember.info,available,4.99,,50,1,12,name.com,,
 512b8847-b019-4d80-b105-d8c9008581b6,veggies.info,resell,,,64,7,7,"GoDaddy.com, LLC",02/08/2024 17:00,02/08/2026 17:00
 517da2d6-071e-479f-9aed-25145dae97ff,snowballs.info,available,4.75,29.49,59,7,9,namesilo,,
-51932edd-160f-493b-8b42-0bba30a6a1ef,comeoutontop.info,available,4.99,,68,0,15,name.com,,
+51932edd-160f-493b-8b42-0bba30a6a1ef,comeoutontop.info,available,4.99,,68,1,15,name.com,,
 5195901e-a060-4b48-9ee5-0d24821b8a32,getwiththeprogram.info,available,4.99,,69,2,20,name.com,,
 51a4c2d6-5d99-4048-9126-a8e316bfcc34,getupandgo.info,available,4.99,,70,3,13,name.com,,
 51a63394-4c31-4992-99d9-54d6ca52de6d,terminators.info,available,4.75,29.49,46,3,11,namesilo,,
@@ -667,7 +666,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 521a69ef-f9e1-44a7-8efc-3c671261799f,majoritycouncil.info,available,4.75,29.49,48,1,16,namesilo,,
 521ceb6f-41ca-459f-90b7-f3ebcd2ea3f6,noticable.info,available,4.75,29.49,52,1,9,namesilo,,
 522fab68-df6c-4f63-80a6-cf6d2d1caa9d,grandparents.info,resell,,,68,5,12,GoDaddy Online Services Cayman Islands Ltd.,06/12/2004 09:44,06/12/2026 09:44
-52430bbf-9e95-42b9-95d0-946d0381d2d4,cometogripswith.info,available,4.99,,62,1,18,name.com,,
+52430bbf-9e95-42b9-95d0-946d0381d2d4,cometogripswith.info,available,4.99,,62,0,18,name.com,,
 5250e58c-b2dc-4ab2-ac75-133c703cfde9,slipoff.info,available,4.99,,65,1,8,name.com,,
 526eb9a6-9b80-4fee-bd24-1c3a1f80da3b,eachtotheirown.info,available,4.99,,46,1,17,name.com,,
 52e1cbcc-b23e-462e-8e11-91c9b79a53a0,distinctivefeature.info,available,4.99,,54,0,19,name.com,,
@@ -692,10 +691,10 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 54af5ac8-814d-4858-82a9-5271e41b2d8b,missionimpossible.info,available,4.99,,68,5,18,name.com,,
 5516d783-864f-42fc-b84c-37db46f0c232,getstraight.info,available,4.99,,77,1,12,name.com,,
 55465323-14ab-4b3d-b5ed-93c9ee77fb2b,disobeying.info,available,4.75,29.49,46,1,10,namesilo,,
-5551bd83-c249-4a66-b210-48b5e2b80508,comeinuseful.info,available,4.99,,68,0,14,name.com,,
+5551bd83-c249-4a66-b210-48b5e2b80508,comeinuseful.info,available,4.99,,68,1,14,name.com,,
 55667510-b209-419c-80d0-203546c788f3,objectives.info,available,4.99,,54,5,10,name.com,,
 556989f0-4f0d-443b-8777-446839e7a8bc,backstretch.info,available,4.99,,74,3,12,name.com,,
-55733d40-1c85-40a2-9077-eea2bd86f7c1,keeppace.info,available,4.99,,74,3,9,name.com,,
+55733d40-1c85-40a2-9077-eea2bd86f7c1,keeppace.info,available,4.99,,74,2,9,name.com,,
 558603a1-0737-4307-aae2-400ac2f6975c,leavewellalone.info,available,4.99,,68,1,16,name.com,,
 55913b6a-89bc-4b33-8a0a-bef5850cd67e,bebothered.info,available,4.99,,63,1,11,name.com,,
 559a630e-cfe3-449b-a43e-665f4f1c8e3f,comeoutwith.info,available,4.99,,68,1,13,name.com,,
@@ -727,7 +726,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 596e9715-84c3-458c-835a-a036a9058ae1,pertained.info,available,4.99,,52,1,9,name.com,,
 59ab7774-2449-4995-a831-bb4a0e8c3fcc,hoho.info,resell,,,62,13,5,"Sav.com, LLC - 31",17/01/2026 15:15,17/01/2027 15:15
 59b7281b-d992-4285-a576-099dd63deb7b,intight.info,available,4.99,,50,1,8,name.com,,
-59ba8eed-eb5d-410c-8039-d77a1be17ff1,popup.info,resell,,,84,29,6,Netregistry Wholesale Pty Ltd,08/12/2024 17:00,08/12/2026 17:00
+59ba8eed-eb5d-410c-8039-d77a1be17ff1,popup.info,resell,,,84,28,6,Netregistry Wholesale Pty Ltd,08/12/2024 17:00,08/12/2026 17:00
 59bc8e2b-24b9-4580-8f48-d7bf1efe3452,playlists.info,premium,11858.03,,60,10,9,Moniker Online Services LLC,07/08/2014 16:40,07/08/2026 16:40
 59c0c692-69ba-4822-b09b-76d393efee20,Ihaveafever.info,available,35.98,,50,1,14,namecheap,,
 59d2ea3d-3ec4-49be-bc08-e2f618121425,blewagasket.info,available,4.75,29.49,34,1,13,namesilo,,
@@ -736,14 +735,14 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 59fa823c-9c7d-4f2b-97ae-e90852f1b19c,rubbed.info,available,4.99,,62,2,6,name.com,,
 5a0b720c-4908-46a8-9c26-d31a7efa659d,gettothebottomof.info,available,4.99,,66,1,20,name.com,,
 5a32edb1-8f10-49f5-b64f-0d55a700096c,trios.info,available,4.75,29.49,50,9,5,namesilo,,
-5a5f50c8-1043-4e47-87b1-935e8075f38f,ballparkestimation.info,available,4.99,,60,0,20,name.com,,
+5a5f50c8-1043-4e47-87b1-935e8075f38f,ballparkestimation.info,available,4.99,,60,1,20,name.com,,
 5a9c38c8-b1b3-4f56-8b3c-1c07bab1cfbc,suspicions.info,available,4.99,,43,2,10,name.com,,
 5acb0207-2036-44b9-8226-7935c124dc8a,trumpeted.info,available,4.99,,53,1,9,name.com,,
 5add731b-e762-47c5-9610-22efde43b92c,porkrib.info,available,4.99,,55,0,8,name.com,,
 5ae7b601-b2fe-4b25-a837-eff9e202b783,makesenseof.info,available,4.99,,52,1,13,name.com,,
 5b3840dc-084b-4341-9f99-94666eb20057,havetheblues.info,available,4.99,,58,1,14,name.com,,
-5b4830ce-95c4-408e-b01b-edbbecc24742,inthebalance.info,available,4.99,,44,1,14,name.com,,
-5b757f79-97d8-4a53-bbb8-cca49b38a512,closeout.info,resell,,,76,6,9,"Spaceship, Inc.",21/09/2001 04:57,21/09/2026 04:57
+5b4830ce-95c4-408e-b01b-edbbecc24742,inthebalance.info,available,4.99,,44,2,14,name.com,,
+5b757f79-97d8-4a53-bbb8-cca49b38a512,closeout.info,resell,,,76,7,9,"Spaceship, Inc.",21/09/2001 04:57,21/09/2026 04:57
 5b9d9c66-f94e-43ff-922b-1b18c84fc36d,inchargeof.info,available,4.99,,49,1,12,name.com,,
 5bc674ef-1047-4d8b-ae32-f48f0bacd30d,vetoed.info,available,4.99,,50,2,6,name.com,,
 5bc6e85e-d8d0-451d-9ac8-002dd6fe3b21,distinctivepaper.info,available,4.99,,72,1,17,name.com,,
@@ -755,7 +754,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5cacec2d-44ec-4583-9e51-7e886f4882f3,faintest.info,available,4.75,29.49,56,1,8,namesilo,,
 5cb6a397-6ec4-4470-957c-62d11c5bcf00,aspertheusual.info,available,4.99,,40,1,16,name.com,,
 5cd1798a-34cc-4dd1-8631-666957235e72,seemlike.info,available,4.99,,54,0,9,name.com,,
-5d071121-aa41-472c-bfec-ab4caa891e48,gobackon.info,available,4.99,,72,2,10,name.com,,
+5d071121-aa41-472c-bfec-ab4caa891e48,gobackon.info,available,4.99,,72,1,10,name.com,,
 5d0cf8dd-038a-4836-9086-74c0f50c5579,pairofshears.info,available,4.99,,59,1,14,name.com,,
 5d34a7b3-e32c-45c6-9cbc-ad313bef0159,zombies.info,resell,,,44,11,7,Dynadot Inc,08/11/2005 09:49,08/11/2027 09:49
 5d66ba8b-6af0-4a76-b280-f155dcda98fc,hookedup.info,available,4.99,,56,6,9,name.com,,
@@ -775,6 +774,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5e837c6c-f638-45ad-a211-647d195b4556,shalt.info,available,4.99,,56,1,5,name.com,,
 5e92f487-1b9b-488e-918d-22fc0c827b32,mouldbreaking.info,available,4.99,,64,1,14,name.com,,
 5ec2139b-60f5-4c04-8f20-b62976b5e313,shoparound.info,available,4.99,,80,3,11,name.com,,
+5ee560d7-8736-4775-b8c0-cfccd768c45c,coffeeandcake.info,resell,,,72,2,15,"GoDaddy.com, LLC",30/01/2019 19:23,30/01/2027 19:23
 5ef366fb-f49f-4103-b6ad-fe35e5c3fb77,estimated.info,available,4.99,,50,5,9,name.com,,
 5f117c60-0080-421c-b023-86c8d3de51a6,responds.info,available,4.75,29.49,58,3,8,namesilo,,
 5f2aa243-1adb-4eed-95c1-065496ecc734,wannabet.info,available,4.99,,62,6,9,name.com,,
@@ -794,24 +794,24 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 62284fea-f186-4d65-a3df-eb72a668cdff,generallyspeaking.info,available,4.99,,58,2,18,name.com,,
 625151bb-9be3-42b9-a1c1-c77b91417f38,updated.info,resell,,,52,10,7,Dynadot Inc,10/06/2025 16:18,10/06/2026 16:18
 6264470a-48e7-42aa-9f76-dd2bea6ab6e0,IsleofMan.info,resell,,,62,91,11,"GoDaddy.com, LLC",03/08/2001 13:30,03/08/2026 13:30
-626f84cd-50cd-48c3-8f35-0483adf02451,couldnotcareless.info,available,4.99,,38,0,19,name.com,,
+626f84cd-50cd-48c3-8f35-0483adf02451,couldnotcareless.info,available,4.99,,38,1,19,name.com,,
 62d147c9-6f90-46ef-b7f1-73d02eb1daff,dogsbodies.info,available,4.75,29.49,76,1,10,namesilo,,
 62df040b-1da2-44de-8211-1a2021a8ae0b,WorldWarIV.info,available,35.98,,52,1,12,namecheap,,
 62e00596-28f6-42d2-bb3e-efb13a7d6871,Icouldeatahorse.info,available,35.98,,50,1,19,namecheap,,
-6311ccb3-a74f-4d59-8261-ff37cba32a53,cometobe.info,available,4.99,,72,0,10,name.com,,
+6311ccb3-a74f-4d59-8261-ff37cba32a53,cometobe.info,available,4.99,,72,1,10,name.com,,
 6320a9d2-d4a5-4969-a5ac-ae9a2861e4bc,pluses.info,available,4.75,29.49,56,4,6,namesilo,,
-63259324-3590-4c40-8301-0022e3c7edd1,keepoutof.info,available,4.99,,68,0,11,name.com,,
+63259324-3590-4c40-8301-0022e3c7edd1,keepoutof.info,available,4.99,,68,1,11,name.com,,
 6344df31-658d-417f-8791-1320851acec4,standingout.info,available,4.99,,62,2,12,name.com,,
 634ca95a-5fd4-4d75-a483-60bc29b57bc9,Xrays.info,resell,,,52,5,6,Dynadot Inc,14/09/2001 21:31,14/09/2027 21:31
 63663130-e251-402b-9c9f-d94dd9383c68,pitchdark.info,available,4.99,,55,2,10,name.com,,
-636e2e1c-e936-42c3-b419-40088333c8a1,keepoff.info,available,4.99,,70,2,8,name.com,,
+636e2e1c-e936-42c3-b419-40088333c8a1,keepoff.info,available,4.99,,70,1,8,name.com,,
 637fcedb-e53a-4be8-b111-6fed392da316,demonstrated.info,available,4.99,,68,3,12,name.com,,
 638b1786-f95b-4d72-9876-2c289ed39194,conductcode.info,available,4.99,,50,1,12,name.com,,
 63a96942-206d-4be5-8286-5b78f7bc76b8,practicality.info,available,4.99,,72,3,12,name.com,,
 63b09f44-3f37-4779-9c54-ed772cb9e057,sighed.info,available,4.99,,56,2,6,name.com,,
-63b1d098-8645-437e-9cc7-0e933e0a2fc0,keepitdown.info,available,4.99,,46,0,12,name.com,,
+63b1d098-8645-437e-9cc7-0e933e0a2fc0,keepitdown.info,available,4.99,,46,1,12,name.com,,
 63cc9236-69ae-4624-b565-61c440227cd7,clearstuff.info,available,4.99,,70,1,11,name.com,,
-63d2a9ba-a3cf-4a92-ae54-37cdb19f02e5,gooutlikealight.info,available,4.99,,62,1,19,name.com,,
+63d2a9ba-a3cf-4a92-ae54-37cdb19f02e5,gooutlikealight.info,available,4.99,,62,0,19,name.com,,
 63d5a618-6726-4b17-94be-91a5899cf2b2,prettiest.info,available,4.99,,62,4,9,name.com,,
 63f51b01-e0b7-40af-b229-b667afd7cd5a,Ineedaguide.info,available,35.98,,50,1,14,namecheap,,
 63f7f325-5264-4f23-996b-7f57ee600b82,Occupations.info,available,35.98,,50,3,11,namecheap,,
@@ -824,11 +824,11 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 64ae544c-3cf6-4016-9130-91c22b37788e,comeround.info,available,4.99,,76,1,10,name.com,,
 64be4a82-2b02-4936-9834-2bafa3f6e258,movefurniture.info,available,4.99,,68,1,14,name.com,,
 64ec08e5-e543-49e9-b3f8-dec873f84cdb,toweloff.info,available,4.99,,70,1,9,name.com,,
-64fd6ede-078e-41c5-999b-4d23cece35ea,letthematterdrop.info,available,4.99,,47,1,19,name.com,,
-65234c0d-0fb5-47be-a18e-ad048a4b61ec,inshorttrousers.info,available,4.99,,58,1,17,name.com,,
+64fd6ede-078e-41c5-999b-4d23cece35ea,letthematterdrop.info,available,4.99,,47,0,19,name.com,,
+65234c0d-0fb5-47be-a18e-ad048a4b61ec,inshorttrousers.info,available,4.99,,58,0,17,name.com,,
 657f0e9b-9025-4844-8971-8cd695cccc70,fullfrontalnudity.info,available,4.99,,48,1,19,name.com,,
 658d3f55-6952-43fd-b9b8-dc8804ea0971,Idodeclare.info,available,35.98,,58,2,12,namecheap,,
-65dbc535-a45c-44b3-b078-a842b69293e6,justthen.info,available,4.99,,62,1,9,name.com,,
+65dbc535-a45c-44b3-b078-a842b69293e6,justthen.info,available,4.99,,62,0,9,name.com,,
 65e3bcf7-49f3-42a7-9f55-0af4aaeacfc0,failures.info,available,4.99,,46,5,8,name.com,,
 65ea243a-08fb-4e46-897d-d0cc928c0f4a,surprises.info,available,4.75,29.49,64,4,9,namesilo,,
 66039b4e-3f6c-411d-8411-9c32dd3a4288,clearsailing.info,available,4.99,,72,1,13,name.com,,
@@ -837,7 +837,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6678e979-ba2e-4c03-ba84-01939a0a97ac,partners.info,resell,,,61,32,8,Dynadot Inc,13/07/2002 19:25,13/07/2027 19:25
 66e702fc-8448-4840-8f50-5fcc4809c6ee,ideclension.info,available,4.99,,58,1,12,name.com,,
 66f0b19c-1685-4acb-8cad-85705e5d4369,shops.info,resell,,,64,24,5,"Spaceship, Inc.",26/07/2001 17:42,26/07/2026 17:42
-66f274bc-d6e1-4e5d-be31-6b08d8258274,keepsomebodyposted.info,available,4.99,,46,0,20,name.com,,
+66f274bc-d6e1-4e5d-be31-6b08d8258274,keepsomebodyposted.info,available,4.99,,46,1,20,name.com,,
 67028a3b-1169-4222-a14e-9d8f69210009,comeintoplay.info,available,4.99,,70,1,14,name.com,,
 672a3e3c-b950-4d78-ac82-e12b70b92aff,sockyarn.info,available,4.99,,64,1,9,name.com,,
 67703ff8-ff3a-4b44-aa20-1b6c207346b5,insofaras.info,available,4.99,,56,0,12,name.com,,
@@ -865,7 +865,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6a1ba05b-2f24-4ddb-9c53-eb9b51872a19,showedup.info,available,4.75,29.49,59,1,9,namesilo,,
 6a2713b8-3b79-40dc-89c2-879e01706850,intimewith.info,available,4.75,29.49,52,0,12,namesilo,,
 6a27878a-f1c1-4442-802a-9b7caab26b31,oncemore.info,available,4.75,29.49,61,6,9,namesilo,,
-6a6a8426-aaeb-44ea-8c8c-f358c64e192d,costprice.info,available,4.99,,70,4,10,name.com,,
+6a6a8426-aaeb-44ea-8c8c-f358c64e192d,costprice.info,available,4.99,,70,3,10,name.com,,
 6a863157-1d47-4512-9198-9cd781030062,CountyofHarris.info,available,35.98,,42,1,16,namecheap,,
 6a8f6f34-3315-47f1-a17f-7d3597b5a70c,tongues.info,available,4.99,,51,6,7,name.com,,
 6aa7c6b6-97ae-44e0-9fdb-356419809da4,lactoseintolerance.info,available,4.99,,56,2,19,name.com,,
@@ -907,11 +907,11 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6ea88266-20a0-4bbe-93e4-0bd2ebdf281a,gonedownthetube.info,available,4.75,29.49,30,1,18,namesilo,,
 6ec0baea-a897-4da9-9156-15c5f081f112,sanded.info,available,4.99,,66,1,6,name.com,,
 6ec196d9-50e6-4f0b-81c0-27291d153063,alcoholbyvolume.info,available,4.99,,58,1,17,name.com,,
-6ef77207-b9ed-4e81-8228-a4d4f67c228b,pricetosell.info,available,4.99,,64,1,13,name.com,,
+6ef77207-b9ed-4e81-8228-a4d4f67c228b,pricetosell.info,available,4.99,,64,0,13,name.com,,
 6f01fa6e-d073-49ae-aa7b-a8fe10fd590a,cometofindout.info,available,4.99,,42,1,16,name.com,,
 6f0cad26-a2ed-4deb-94b0-275d0702f003,laptops.info,resell,,,56,8,7,Dynadot13 LLC,24/09/2019 10:12,24/09/2030 10:12
 6f4179e2-e57d-46ba-9b2c-853e33079475,hangwith.info,available,4.99,,70,2,9,name.com,,
-6f501d50-be0b-4d92-a5be-eb1c4a542f64,fitinto.info,available,4.99,,84,2,8,name.com,,
+6f501d50-be0b-4d92-a5be-eb1c4a542f64,fitinto.info,available,4.99,,84,1,8,name.com,,
 6f582252-1fc3-4513-aeff-3e88ab758644,tells.info,available,4.99,,62,7,5,name.com,,
 6f9caea6-36c8-4cab-be6f-a7cb0ca3f6ec,PopeGregoryI.info,available,35.98,,28,1,14,namecheap,,
 6fab8f8f-2ea0-4586-9b76-1d6e1387d154,cases.info,resell,,,50,12,5,Global Domain Group LLC,21/09/2001 04:32,21/09/2027 04:32
@@ -959,7 +959,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 75896b75-0be7-4f9b-a500-b391e8f68b94,warned.info,available,4.99,,54,4,6,name.com,,
 767abedb-2141-4646-bc9e-f6ccb7676826,tirades.info,available,4.99,,46,1,7,name.com,,
 767c2076-69f4-4d8d-8d61-1876e507a4c0,breakingnews.info,resell,,,66,19,13,"GoDaddy.com, LLC",18/09/2001 20:20,18/09/2026 20:20
-76a0af08-e3cc-4412-99eb-05ec03a4bccb,makeitcount.info,available,4.99,,72,8,13,name.com,,
+76a0af08-e3cc-4412-99eb-05ec03a4bccb,makeitcount.info,available,4.99,,72,7,13,name.com,,
 76de2a7e-5010-4127-944f-c691f376e038,inthemain.info,available,4.99,,50,1,11,name.com,,
 76ff32df-0bdc-42fc-8523-534c04e140bf,midmorning.info,available,4.99,,80,1,11,name.com,,
 770dd0d6-34dd-4f8e-ab9b-14f3dc7272b6,commonhousefly.info,available,4.99,,42,1,15,name.com,,
@@ -979,7 +979,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 784c6a65-9fad-448c-bfb2-194e400261b3,indoor.info,resell,,,72,15,6,"Sav.com, LLC - 40",03/03/2026 15:15,03/03/2027 15:15
 7878664f-0e2b-45bc-abac-f489f94fe3bb,yawned.info,available,4.75,29.49,53,2,6,namesilo,,
 789e52b9-1266-48f7-a991-498204898f83,counterterrorism.info,available,4.99,,52,3,17,name.com,,
-78a384a6-ed7b-49cc-bc60-f1a81f4a68c9,makethebestof.info,available,4.99,,72,1,16,name.com,,
+78a384a6-ed7b-49cc-bc60-f1a81f4a68c9,makethebestof.info,available,4.99,,72,0,16,name.com,,
 78a7dde8-eeda-41e8-82f4-b0fc6a7e85a8,offenses.info,available,4.75,29.49,40,2,8,namesilo,,
 78b02806-b8a2-4152-94e7-a0aa8a4139cc,sidewalks.info,available,4.75,29.49,56,5,9,namesilo,,
 78b3cc1a-e73e-45ca-95a2-1f02b201a9a4,thickens.info,available,4.75,29.49,48,1,8,namesilo,,
