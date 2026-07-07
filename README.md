@@ -1,10 +1,10 @@
-# Available .INFO One-Word Domains (8,235)
+# Available .INFO One-Word Domains (8,239)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C235%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C239%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .info one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,235 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **8,239 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 8,235 domains · **Median ask:** $2,092.15 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 8,239 domains · **Median ask:** $1,042.99 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/info`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/info`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .INFO one-word domain 
 
 ### Files
 
-- `info.csv` — public CSV extract (1,000 rows)
-- `info.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `info.csv`, public CSV extract (1,000 rows)
+- `info.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                                 |
-| --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| banked.info     | available | $4.99      | —             | 50             | 13     | 6      | name.com                                                  |
-| IsleofMan.info  | resell    | —          | —             | 62             | 91     | 11     | GoDaddy.com, LLC                                          |
-| winners.info    | premium   | $2,932.82  | —             | 60             | 81     | 7      | GoDaddy.com, LLC                                          |
-| nights.info     | available | $4.99      | —             | 74             | 12     | 6      | name.com                                                  |
-| makers.info     | resell    | —          | —             | 62             | 67     | 6      | Dynadot Inc                                               |
-| superhero.info  | premium   | $11,700.49 | —             | 84             | 23     | 9      | Epik LLC                                                  |
-| Rounds.info     | available | $35.98     | —             | 72             | 12     | 6      | namecheap                                                 |
-| skills.info     | resell    | —          | —             | 58             | 47     | 6      | GoDaddy.com, LLC                                          |
-| cockpit.info    | premium   | $935.76    | —             | 74             | 21     | 7      | InterNetX GmbH                                            |
-| flipped.info    | available | $4.99      | —             | 52             | 12     | 7      | name.com                                                  |
-| Ryan.info       | resell    | —          | —             | 60             | 44     | 4      | GoDaddy.com, LLC                                          |
-| videogames.info | premium   | $10,527.84 | —             | 66             | 18     | 11     | Name.com, Inc.                                            |
-| stackup.info    | available | $4.99      | —             | 64             | 11     | 8      | name.com                                                  |
-| homes.info      | resell    | —          | —             | 86             | 34     | 5      | NameCheap, Inc.                                           |
-| hookup.info     | premium   | $1,184.50  | —             | 76             | 16     | 7      | GoDaddy.com, LLC                                          |
-| tomorrows.info  | available | $4.75      | $29.49        | 60             | 11     | 9      | namesilo                                                  |
-| roots.info      | resell    | —          | —             | 74             | 34     | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| depression.info | premium   | $1,436.80  | —             | 52             | 16     | 10     | Vautron Rechenzentrum AG                                  |
-| QandA.info      | available | $35.98     | —             | 80             | 10     | 7      | namecheap                                                 |
-| trends.info     | resell    | —          | —             | 60             | 32     | 6      | Spaceship, Inc.                                           |
+| domain         | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                      |
+| -------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
+| half.info      | resell    | —          | —             | high           | low    | 4      | Megazone Corp., dba HOSTING.KR |
+| yuck.info      | available | $4.75      | $29.49        | medium         | low    | 4      | namesilo                       |
+| aaa.info       | resell    | $23,000    | $35.99        | high           | medium | 3      | GoDaddy.com, LLC               |
+| ecru.info      | premium   | $1,148.85  | $35.99        | high           | low    | 4      | Sav.com, LLC - 48              |
+| adieu.info     | available | $4.75      | $29.49        | high           | low    | 5      | namesilo                       |
+| force.info     | resell    | $1,340.90  | $35.99        | high           | low    | 5      | Sea Wasp, LLC                  |
+| html.info      | premium   | $11,845    | —             | high           | low    | 4      | GoDaddy.com, LLC               |
+| aftuh.info     | available | $4.75      | $29.49        | medium         | low    | 5      | namesilo                       |
+| accident.info  | resell    | $2,619.70  | $2,619.70     | medium         | low    | 8      | Sav.com, LLC - 32              |
+| ohio.info      | premium   | $23,000    | $35.99        | high           | low    | 4      | Dynadot Inc                    |
+| among.info     | available | $4.75      | $29.49        | medium         | low    | 5      | namesilo                       |
+| activity.info  | resell    | $2,875     | $2,875        | high           | low    | 8      | GoDaddy.com, LLC               |
+| play.info      | premium   | $18,271.20 | $35.99        | high           | medium | 4      | GoDaddy.com, LLC               |
+| chose.info     | available | $4.75      | $29.49        | high           | low    | 5      | namesilo                       |
+| property.info  | resell    | $34,500    | $35.99        | high           | low    | 8      | GoDaddy.com, LLC               |
+| clock.info     | premium   | $34,500    | $35.99        | medium         | low    | 5      | Megazone Corp., dba HOSTING.KR |
+| ought.info     | available | $4.99      | —             | high           | low    | 5      | name.com                       |
+| accessory.info | resell    | $575       | $35.99        | high           | low    | 9      | Dynadot Inc                    |
+| erase.info     | premium   | $575       | $35.99        | high           | low    | 5      | Network Solutions, LLC         |
+| stood.info     | available | $4.75      | $29.49        | low            | low    | 5      | namesilo                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 8,235 live domains                         |
+| 1,000-row public sample | 8,239 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely .info, so the main question is not extension mix but name quality inside the extension. The sample includes strong generic keywords such as database.info, vehicle.info, and assure.info, alongside longer or narrower terms like dogtoothgrass.info. For founders, the best picks are clear, memorable words that still feel credible on .info. For investors, the key test is whether the keyword has broad commercial relevance and a realistic entry price. With a median ask of $2,094, price discipline matters. Short, exact-match words usually deserve the closest review, while overly specific terms need stronger conviction.
+This selection includes 8,239 one-word .INFO domain names covering generic nouns, action words, and recognizable phrases such as presents.info, dogsit.info, and gingerbread.info. The median ask is near $1,043, giving a baseline for comparing pricing across this list. Some names reference well-known characters or brands, which is worth checking before locking in a pick. Use pricing, renewal cost, and spelling simplicity as the core criteria when narrowing this list to a shortlist.
 
-- All results are .info domains, so extension risk is consistent
-- Median ask is $2,094 across this selection
-- Prioritize clear generic words like database or vehicle
-- Be cautious with long or niche terms with narrow demand
+- 8,239 one-word .INFO domain names in this list
+- Median ask near $1,043 across this selection
+- Mix of generic words, phrases, and pop-culture names
+- Check trademark risk before picking names like character terms
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INFO One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INFO One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
