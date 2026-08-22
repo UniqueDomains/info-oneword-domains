@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .info one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,353 domains · **Median ask:** $514.54 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-08-21
+**Last updated:** 2026-08-22
 **Canonical page:** `https://unique.domains/domains/tld/info`
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,6 @@ print(df.head())
 | domain        | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                      |
 | ------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
 | half.info     | resell    | —          | —             | high           | low    | 4      | Megazone Corp., dba HOSTING.KR |
-| heavy.info    | resell    | —          | —             | high           | low    | 5      | GoDaddy.com, LLC               |
 | ague.info     | available | $3.98      | $35.98        | low            | low    | 4      | namecheap                      |
 | aaa.info      | resell    | $23,000    | $35.99        | high           | medium | 3      | GoDaddy.com, LLC               |
 | ecru.info     | premium   | $1,148.85  | $35.99        | high           | low    | 4      | Sav.com, LLC - 48              |
@@ -84,6 +83,7 @@ print(df.head())
 | adieu.info    | available | $4.75      | $29.49        | high           | low    | 5      | namesilo                       |
 | property.info | resell    | $34,500    | $35.99        | high           | low    | 8      | GoDaddy.com, LLC               |
 | erase.info    | premium   | $575       | $35.99        | high           | low    | 5      | Network Solutions, LLC         |
+| aftuh.info    | available | $4.75      | $29.49        | medium         | low    | 5      | namesilo                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INFO One-Word Domains*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INFO One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
