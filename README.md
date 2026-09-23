@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .info one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,319 domains · **Median ask:** $270.83 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/info`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                      |
-| ------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
-| half.info     | resell    | —          | —             | high           | low    | 4      | Megazone Corp., dba HOSTING.KR |
-| ague.info     | available | $3.98      | $35.98        | low            | low    | 4      | namecheap                      |
-| aaa.info      | resell    | $23,000    | $35.99        | high           | medium | 3      | GoDaddy.com, LLC               |
-| ecru.info     | premium   | $1,148.85  | $35.99        | high           | low    | 4      | Sav.com, LLC - 48              |
-| alky.info     | available | $3.98      | $35.98        | low            | low    | 4      | namecheap                      |
-| force.info    | resell    | $1,340.90  | $35.99        | high           | low    | 5      | Sea Wasp, LLC                  |
-| html.info     | premium   | $11,845    | —             | high           | low    | 4      | GoDaddy.com, LLC               |
-| lxvi.info     | available | $3.98      | $35.98        | low            | low    | 4      | namecheap                      |
-| aerial.info   | resell    | $1,146.55  | $35.99        | medium         | low    | 6      | GoDaddy.com, LLC               |
-| ohio.info     | premium   | $23,000    | $35.99        | high           | low    | 4      | Dynadot Inc                    |
-| viii.info     | available | $3.98      | $35.98        | low            | low    | 4      | namecheap                      |
-| accident.info | resell    | $2,619.70  | $2,619.70     | medium         | low    | 8      | Sav.com, LLC - 32              |
-| play.info     | premium   | $18,271.20 | $35.99        | high           | medium | 4      | GoDaddy.com, LLC               |
-| yuck.info     | available | $4.75      | $29.49        | medium         | low    | 4      | namesilo                       |
-| activity.info | resell    | $2,875     | $2,875        | high           | low    | 8      | GoDaddy.com, LLC               |
-| clock.info    | premium   | $34,500    | $35.99        | medium         | low    | 5      | Megazone Corp., dba HOSTING.KR |
-| adieu.info    | available | $4.75      | $29.49        | high           | low    | 5      | namesilo                       |
-| property.info | resell    | $34,500    | $35.99        | high           | low    | 8      | GoDaddy.com, LLC               |
-| erase.info    | premium   | $575       | $35.99        | high           | low    | 5      | Network Solutions, LLC         |
-| aftuh.info    | available | $4.75      | $29.49        | medium         | low    | 5      | namesilo                       |
+| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                      |
+| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
+| half.info         | resell    | —          | —             | high           | low    | 4      | Megazone Corp., dba HOSTING.KR |
+| pleasure.info     | resell    | —          | —             | high           | low    | 8      | Sav.com, LLC                   |
+| pilot.info        | resell    | —          | —             | high           | low    | 5      | GoDaddy.com, LLC               |
+| ague.info         | available | $3.98      | $35.98        | low            | low    | 4      | namecheap                      |
+| force.info        | resell    | $1,340.90  | $35.99        | high           | low    | 5      | Sea Wasp, LLC                  |
+| ecru.info         | premium   | $1,148.85  | $35.99        | high           | low    | 4      | Sav.com, LLC - 48              |
+| alky.info         | available | $3.98      | $35.98        | low            | low    | 4      | namecheap                      |
+| aerial.info       | resell    | $1,146.55  | $35.99        | medium         | low    | 6      | GoDaddy.com, LLC               |
+| html.info         | premium   | $11,845    | —             | high           | low    | 4      | GoDaddy.com, LLC               |
+| lxvi.info         | available | $3.98      | $35.98        | low            | low    | 4      | namecheap                      |
+| accident.info     | resell    | $2,619.70  | $2,619.70     | low            | low    | 8      | Sav.com, LLC - 32              |
+| ohio.info         | premium   | $23,000    | $35.99        | high           | low    | 4      | Dynadot Inc                    |
+| viii.info         | available | $3.98      | $35.98        | low            | low    | 4      | namecheap                      |
+| activity.info     | resell    | $2,875     | $2,875        | high           | low    | 8      | GoDaddy.com, LLC               |
+| play.info         | premium   | $18,271.20 | $35.99        | high           | medium | 4      | GoDaddy.com, LLC               |
+| yuck.info         | available | $4.75      | $29.49        | medium         | low    | 4      | namesilo                       |
+| property.info     | resell    | $34,500    | $35.99        | high           | low    | 8      | GoDaddy.com, LLC               |
+| clock.info        | premium   | $34,500    | $35.99        | medium         | low    | 5      | Megazone Corp., dba HOSTING.KR |
+| adieu.info        | available | $4.75      | $29.49        | high           | low    | 5      | namesilo                       |
+| prescription.info | resell    | $561.20    | $35.99        | medium         | low    | 12     | Sav.com, LLC - 33              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INFO One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INFO One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
