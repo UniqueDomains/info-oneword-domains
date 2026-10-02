@@ -1,10 +1,10 @@
-# Available .INFO One-Word Domains (17,271)
+# Available .INFO One-Word Domains (18,057)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-17%2C271%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C057%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .info one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **17,271 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **18,057 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 17,271 domains · **Median ask:** $174.92 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 18,057 domains · **Median ask:** $168.68 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/info`
 **Best for:** founders, investors, studios
 
@@ -66,24 +66,24 @@ print(df.head())
 | --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
 | acth.info       | available | $5.25      | $29.49        | medium         | low    | 4      | namesilo                      |
 | ding.info       | resell    | $6,771.20  | $35.99        | medium         | low    | 4      | 22net, Inc.                   |
-| url.info        | premium   | $3,450     | $3,450        | high           | medium | 3      | namesilo                      |
+| grade.info      | premium   | $5,922.50  | $39.99        | high           | low    | 5      | GoDaddy.com, LLC              |
 | afrl.info       | available | $5.25      | $29.49        | medium         | low    | 4      | namesilo                      |
 | strip.info      | resell    | $11,498.85 | $35.99        | high           | low    | 5      | Spaceship, Inc.               |
-| fact.info       | premium   | $2,750     | $2,750        | high           | low    | 4      | dynadot                       |
-| aunt.info       | available | $5         | $29.49        | high           | low    | 4      | unstoppable                   |
-| verse.info      | resell    | $2,339.39  | —             | high           | low    | 5      | GKG.NET, INC.                 |
-| grade.info      | premium   | $5,922.50  | $39.99        | high           | low    | 5      | GoDaddy.com, LLC              |
-| cour.info       | available | $3.31      | $21.94        | medium         | low    | 4      | spaceship                     |
-| absolute.info   | resell    | $2,286.20  | $35.99        | high           | low    | 8      | Netregistry Wholesale Pty Ltd |
 | celiac.info     | premium   | $27,005.42 | $39.99        | medium         | low    | 6      | GoDaddy.com, LLC              |
-| erse.info       | available | $3.98      | $35.98        | medium         | low    | 4      | namecheap                     |
+| aunt.info       | available | $5         | $29.49        | high           | low    | 4      | unstoppable                   |
+| absolute.info   | resell    | $2,286.20  | $35.99        | high           | low    | 8      | Netregistry Wholesale Pty Ltd |
+| cour.info       | available | $3.31      | $21.94        | medium         | low    | 4      | spaceship                     |
 | activity.info   | resell    | $2,875     | $2,875        | high           | low    | 8      | GoDaddy.com, LLC              |
-| address.info    | premium   | $3,450     | $3,450        | high           | low    | 7      | namesilo                      |
-| idyl.info       | available | $3.98      | $35.98        | high           | low    | 4      | namecheap                     |
+| erse.info       | available | $3.98      | $35.98        | medium         | low    | 4      | namecheap                     |
 | exhibition.info | resell    | $10,527.84 | —             | high           | low    | 10     | Sav.com, LLC - 3              |
-| nigh.info       | available | $3.98      | $35.98        | medium         | low    | 4      | namecheap                     |
+| idyl.info       | available | $3.98      | $35.98        | high           | low    | 4      | namecheap                     |
 | abm.info        | resell    | —          | —             | high           | low    | 3      | Dynadot Inc                   |
+| nigh.info       | available | $3.98      | $35.98        | medium         | low    | 4      | namecheap                     |
+| amy.info        | resell    | —          | —             | high           | low    | 3      | Sea Wasp, LLC                 |
 | oars.info       | available | $5.25      | $29.49        | medium         | low    | 4      | namesilo                      |
+| aoc.info        | resell    | —          | —             | high           | low    | 3      | —                             |
+| scag.info       | available | $3.98      | $35.98        | medium         | low    | 4      | namecheap                     |
+| awe.info        | resell    | —          | —             | high           | low    | 3      | GoDaddy.com, LLC              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 17,271 live domains                        |
+| 1,000-row public sample | 18,057 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INFO One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INFO One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
